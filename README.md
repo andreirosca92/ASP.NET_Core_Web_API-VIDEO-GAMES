@@ -6,4 +6,4 @@ This note will demonstrate how to create an ASP.NET Core CRUD web API using Post
 
 ## Image
 
-![alt text](https://github.com/andreirosca92/ASP.NET_Core_Web_API-VIDEO-GAMES/blob/main/image/database.png?raw=true)
+![alt text](https://github.com/andreirosca92/ASP.NET_Core_Web_API-VIDEO-GAMES/main/image/database.png?raw=true)
