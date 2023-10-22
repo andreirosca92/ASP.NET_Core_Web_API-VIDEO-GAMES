@@ -33,7 +33,7 @@ namespace REST_API_GAMES.Services
             {
                 if (includeGames) // developers should be included
                 {
-                    return await _db.Developer.Include(b => b.Games)
+                    return await _db.Developer.Include(b => b.GameDevelopers)
                         .FirstOrDefaultAsync(i => i.Id == id);
                 }
 
